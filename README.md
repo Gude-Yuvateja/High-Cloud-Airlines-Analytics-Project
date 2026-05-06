@@ -1,4 +1,4 @@
-# High Cloud Airlines Analytics Project
+# 📊 High Cloud Airlines Analytics Project
 The High Cloud Airlines Analytics Project focuses on analyzing airline operational and passenger data to generate meaningful business insights and improve decision-making. This project involves data cleaning, transformation, analysis, and visualization using SQL, Excel, Tableau and Power BI.
 
 # ⭐ Key Highlights
