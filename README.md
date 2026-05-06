@@ -1,18 +1,16 @@
-# High-Cloud-Airlines-Analytics-Project
-Analyzed airline operational and passenger data to identify travel trends, route performance, and carrier efficiency. Used SQL, Excel, and Power BI for data analysis, dashboard development, and reporting. Generated insights on passenger traffic, flights, airtime, and airport activity to support business decisions.
+# High Cloud Airlines Analytics Project
+The High Cloud Airlines Analytics Project focuses on analyzing airline operational and passenger data to generate meaningful business insights and improve decision-making. This project involves data cleaning, transformation, analysis, and visualization using SQL, Excel, Tableau and Power BI.
 
-# Key Highlights
-
+# ⭐ Key Highlights
 - Analyzed 110,000+ airline flight records to identify trends in passenger traffic, routes, and airline performance.
 - Performed data cleaning and transformation to improve data quality and reporting accuracy.
 - Built interactive dashboards to monitor KPIs such as total flights, passengers transported, airtime, available seats, and route performance.
 - Generated insights on airport activity, carrier performance, and travel trends using data visualization techniques.
 
-# Tools & Technologies
-
+# 🛠 Tools & Technologies
 - SQL
 - Microsoft Excel
-- Power BI
+- Power BI/Tableau
 
-# Project Outcome
+# 📈 Project Outcome
 Developed an interactive analytics solution that helps understand airline operations, performance trends, and passenger insights through data-driven reporting and dashboards.
